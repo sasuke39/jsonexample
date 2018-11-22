@@ -1,0 +1,31 @@
+{
+	"sqName":"Super hero squad",
+	"homeTown":"Metro City",
+	"formed":"2016",
+	"secretBase":"Super tower",
+	"active":true,
+	"members":[
+		{
+			"name":"1",
+			"age":29,
+			"power":[
+					"one",
+					"two",
+					"three"
+			]
+		},
+		{
+			"name":"2",
+			"age":"30",
+			"power":[
+					"1",
+					"2",
+					"3"
+			]
+
+		}
+
+	]
+
+
+}
